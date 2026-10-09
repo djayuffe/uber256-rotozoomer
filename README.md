@@ -63,7 +63,7 @@ a `.COM`. It checks the size gates, mode 13h in and text mode out, the palette, 
 ## Related
 
 Part of a small family of DOS size-coding demos, each in its own repository:
-[uber8-dos-demo](https://github.com/djayuffe/uber8-dos-demo) (5 bytes),
+[uber10-dos-demo](https://github.com/djayuffe/uber10-dos-demo) (10 bytes),
 [uber128-dos-demo](https://github.com/djayuffe/uber128-dos-demo) (77 bytes),
 [uber256-rotozoomer](https://github.com/djayuffe/uber256-rotozoomer) (171 bytes),
 [uber256-dos-intro](https://github.com/djayuffe/uber256-dos-intro) (131 bytes), and the big one,
