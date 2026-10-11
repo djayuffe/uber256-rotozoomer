@@ -6,6 +6,10 @@
 
 ![UBER256.COM running in DOSBox](screenshot.jpg)
 
+![UBER256 in motion](docs/uber256.gif)
+
+*Rendered frame by frame from the real binary running in an emulated CPU (Unicorn), with a model of the display hardware: no screen recording. Checked against real DOSBox screenshots.*
+
 171 bytes (class 256) of x86 assembly: an XOR texture rotating about the screen centre, with a dense rolling palette, at 70 fps.
 
 | | |
